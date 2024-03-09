@@ -34,7 +34,7 @@ To set up and run the API on your local machine, follow these steps:
 
    ```plaintext
    PORT=<port>
-   DB_CONNECTION=<your-mongodb-connection-string>
+   DB_CONNECTION=<your-mongodb-connection-string>/<your-collection-name>
    JWT_SECRET=<your-secret-key>
    ```
 
